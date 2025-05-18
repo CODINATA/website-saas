@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://CODINATA.github.io/website-saas/",
+  "homepage": "https://CODINATA.github.io/website-saas",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
