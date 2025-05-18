@@ -39,8 +39,8 @@ const Header = () => {
             <a href="#features" className="text-slate-700 hover:text-blue-600 transition-colors">Features</a>
             <a href="#pricing" className="text-slate-700 hover:text-blue-600 transition-colors">Pricing</a>
             <a href="#contact" className="text-slate-700 hover:text-blue-600 transition-colors">Contact</a>
-            <Button variant="outline">Log in</Button>
-            <Button>Get Started</Button>
+            
+            
           </nav>
 
           {/* Mobile menu button */}
@@ -78,10 +78,6 @@ const Header = () => {
               >
                 Contact
               </a>
-              <div className="pt-2 px-4 space-y-2">
-                <Button fullWidth variant="outline">Log in</Button>
-                <Button fullWidth>Get Started</Button>
-              </div>
             </nav>
           </div>
         )}
